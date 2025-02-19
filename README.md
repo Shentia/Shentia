@@ -8,7 +8,7 @@
 - 🔭 Working on open-source projects and sharing knowledge
 - 💡 Passionate about web development and teaching others
 - 🌱 Always learning and exploring new technologies
-- ⏰ Last updated: 2025-02-19 22:06:35 UTC
+- ⏰ Last updated: 2025-02-19 22:11:09 UTC
 
 ## 🎬 Subscribe to My YouTube Channel!
 <div align="center">
@@ -17,6 +17,18 @@
 
 > 🎯 Join our growing community of developers! Learn, share, and grow together.
 </div>
+
+## 🚀 [My Applications](https://www.ahmadrezashamimi.com/apps)
+
+### 🖱️ [Mouse Mover for macOS](https://www.ahmadrezashamimi.com/apps)
+<img src="https://img.shields.io/badge/Version-v1.3-blue?style=flat-square&logo=apple&logoColor=white" alt="Version 1.3" />
+
+Mouse Mover is a simple yet powerful utility that keeps your Mac awake by simulating mouse movement. Perfect for preventing screen timeouts during presentations or when running long processes.
+
+### 🎯 [YouTube Focus Mode](https://www.ahmadrezashamimi.com/apps)
+<img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Chrome Extension" />
+
+YouTube Focus Mode helps you stay productive by removing suggested videos, comments, and other distracting elements from YouTube, letting you focus on the content you want to watch.
 
 ## 🛠️ Tech Stack
 
@@ -42,6 +54,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/-Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -54,6 +67,8 @@
 - 🎨 Contributor to [Storybook.js](https://storybook.js.org/) - Helping improve the developer experience
 - 📺 YouTube Content Creator at [Code with Keys](https://www.youtube.com/@codewithkeys)
 - 👨‍🏫 Sharing knowledge and tutorials with the developer community
+- 🖱️ Creator of Mouse Mover for macOS
+- 🎯 Developer of YouTube Focus Mode Chrome Extension
 
 ## 📫 Let's Connect!
 
