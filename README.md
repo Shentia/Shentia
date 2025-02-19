@@ -8,7 +8,7 @@
 - 🔭 Working on open-source projects and sharing knowledge
 - 💡 Passionate about web development and teaching others
 - 🌱 Always learning and exploring new technologies
-- ⏰ Last updated: 2025-02-19 22:05:10 UTC
+- ⏰ Last updated: 2025-02-19 22:06:35 UTC
 
 ## 🎬 Subscribe to My YouTube Channel!
 <div align="center">
@@ -41,6 +41,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 ## 📊 GitHub Stats
 
