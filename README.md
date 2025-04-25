@@ -12,7 +12,7 @@
 
 ## 🎬 Videahub | Organize your video ideas with clarity and purpose!
 <div align="center">
-🎯 Vote me Please
+<div>🎯 Vote me Please</div>
 <a href="https://www.producthunt.com/posts/videahub?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-videahub" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=957071&theme=light&t=1745590509205" alt="Videahub - Organize&#0032;your&#0032;video&#0032;ideas&#0032;with&#0032;clarity&#0032;and&#0032;purpose | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 </div>
 
