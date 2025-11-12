@@ -56,7 +56,7 @@
 - 📺 YouTube Content Creator at [Code with Keys](https://www.youtube.com/@codewithkeys)
 - 👨‍🏫 Sharing knowledge and tutorials with the developer community
 - 👨‍💻 Contributor to torontoJS and Youtube Streamer.
-
+[![smithery badge](https://smithery.ai/badge/@Shentia/mcp-generate-unit-testing)](https://smithery.ai/server/@Shentia/mcp-generate-unit-testing)
 
 ## 📫 Let's Connect!
 
